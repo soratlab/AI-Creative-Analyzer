@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI Creative Analyzer</title>
-  </head>
-  <body>
-    <div id="root"></div>
+/* CSS interno do React */
+h1 {
+  color: #333;
+}
 
-    <!-- Carrega o React pelo main.jsx -->
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
-</html>
+p {
+  color: #555;
+}
